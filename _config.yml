@@ -37,6 +37,6 @@ github:
   repo:             https://github.com/fongandrew/hydeout
 
 disqus:
-  shortname: 'stephensebro'
+  shortname:  stephensebro
 
-google_analytics: 'UA-126655391-1'
+google_analytics: UA-126655391-1
