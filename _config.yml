@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Engineering Stephen
-tagline:          'Problems Solved.'
-description:      'I engineer my life to make myself into the best me. Here''s how:'
+tagline:          'My problems, solved.'
+description:      'I relentlessly engineer my life to make a better me. Here''s how.'
 url:              https://stephensebro.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
