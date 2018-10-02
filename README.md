@@ -1,3 +1,4 @@
+jekyll serve
 # potential-chainsaw
 
 # Hydeout
