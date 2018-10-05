@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About / Why?
 sidebar_link: true
 published: true
 ---
