@@ -10,7 +10,7 @@ published: true
 </sup>
 <br>
 <br>
-##### Introducing SuperHuman OS
+##### Introducing Gestalt
 <sup>
 We've developed a platform technology which pushes you up Mazlov's Heirarchy **by default**.
 </sup>
