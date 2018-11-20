@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Engineering Stephen
 tagline:          'Engineer Yourself.'
-description:      'SuperHuman OS. <br> Climb Mazlov’s heirarchy by default.'
+description:      'Climbing Mazlov’s heirarchy by default.'
 url:              https://stephensebro.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
