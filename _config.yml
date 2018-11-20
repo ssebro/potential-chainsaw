@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Engineering Stephen
-tagline:          'My problems, solved.'
-description:      'I relentlessly engineer my life to create a better me. Here''s how.'
+tagline:          'Engineer Yourself.'
+description:      'SuperHuman OS. <br> Climb Mazlov’s heirarchy by default.'
 url:              https://stephensebro.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -17,7 +17,7 @@ author:
   name:           'Stephen Sebro'
   url:            https://twitter.com/ssebro
 
-paginate:         5
+paginate:         2
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
