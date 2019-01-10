@@ -6,7 +6,9 @@
 @import "hydeout";
 
 #mc_embed_signup {
-    background-color:green;
+    input.button {
+        background-color:green;
+    }
 }
 
 @media (min-width: $large-breakpoint) {
