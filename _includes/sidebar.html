@@ -1,5 +1,6 @@
 <div id="sidebar">
   <header>
+    {% include sidebar-about.html %}
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ site.baseurl }}/">
         {% unless page.url == "/" %}
@@ -9,6 +10,8 @@
       </a>
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
     <p class="lead">{{ site.description }}</p>
+  {% include mc-embed-tiny.html %}
+
   </header>
   {% include sidebar-nav-links.html %}
 

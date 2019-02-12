@@ -14,7 +14,24 @@
 @media (min-width: $large-breakpoint) {
     #sidebar {
         .site-title {
-          font-size: 2.5rem !important;
+          font-size: 2rem !important;
+
+        }
+        p {
+          font-size: .7rem !important;
+
+        }
+        .lead {
+          a {
+           text-decoration: underline;
+          }
         }
     }
-}    
+}
+
+#sidebar {
+    .site-title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+      font-weight: bolder;
+    }
+}
