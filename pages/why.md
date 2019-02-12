@@ -34,4 +34,4 @@ If you agree, then you too should engineer yourself.
 <br>
 <br>
 
-<a href="/pages/signup.html">Join us, and learn alognside us,</a>.
+<a href="/pages/signup.html">Join us, and learn alongside us</a>.
