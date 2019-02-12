@@ -30,4 +30,6 @@ Why can't we **build systems that ensure that people are as happy as is possible
 I think we should. I think we must.
 <br>
 <br>
-If you agree, then you too should engineer yourself. <a href="/pages/signup.html">Join us, and learn alognside us,</a>.
+If you agree, then you too should engineer yourself.
+<br>
+<a href="/pages/signup.html">Join us, and learn alognside us,</a>.
