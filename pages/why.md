@@ -24,7 +24,7 @@ So why can't we for sure elect the right leaders?
 
 Why can't we ensure that nobody dies from starvation, or from overeating?
 
-Why can't we **build systems that ensure that people are as happy as is possible**?
+Why don't we **build and use systems that ensure that we are as happy as is possible**?
 <br>
 <br>
 I think we should. I think we must.
