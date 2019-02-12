@@ -10,7 +10,7 @@ Sorry this is ugly right now; i dont have time to make it perfect.
 
     <input type="text" name="name" placeholder="Name"> <br>
     <input type="email" name="email" placeholder="Email"> <br>
-    <input type="text" name="text" placeholder="Lorem Upsome? Here's where you write your message :)"> <br>
+    <input type="text" name="text" placeholder="Write your message :)"> <br>
     <button type="submit">Send</button>
 
 </form>
