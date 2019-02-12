@@ -12,7 +12,7 @@ If this were not true, you would *never*
 - or use elevators.
 
 
-You also already believe that humans can work as part of those systems that deliver those outcomes, since Boeing engineers and assemblers are humans, as are Apple engineers and their Foxxconn line-worker counterparts.
+You also already believe that humans can work as part of those systems that deliver those outcomes, since Boeing's engineers and assemblers are humans, as are Apple's engineers and their Foxxconn line-worker counterparts.
 
 These two facts combine to create the following ethical dilimma:
 
