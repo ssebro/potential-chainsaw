@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Engineering Stephen.
-tagline:          'Engineer Yourself.'
+tagline:          'Systematically automate your happiness.'
 description:      'Can Computer Science + Economics + Astrophysics + Neuroscience = Happiness? <br> <a href="/pages/signup.html"> Let''s find out together! </a>'
 url:              https://stephensebro.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"

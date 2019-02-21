@@ -18,20 +18,20 @@ These two facts combine to create the following ethical dilimma:
 
 If we can solve almost any problem using logical, systematic thinking, **Why aren't we using this ability to solve the most important problems of our day**?
 
-Don't get me wrong: I really love my phone, and I respect the power it delivers to those willing and able to pay for it. It's amazing that we can access most of the world's knowledge from a tiny portable device. As little as 30 years ago, this would have been seen as pure magic.
-
-So why can't we for sure elect the right leaders?
+Why can't we for sure elect the right leaders?
 
 Why can't we ensure that nobody dies from starvation, or from overeating?
 
 Why don't we **build and use systems that ensure that we are as happy as is possible**?
 <br>
 <br>
-I think we should. I think we must.
-<br>
-<br>
-If you agree, then you too should engineer yourself.
-<br>
-<br>
+I know that we can.
 
-<a href="/pages/signup.html">Join us, and learn alongside us</a>.
+I think we should.
+
+I think we must.
+<br>
+<br>
+If you agree, then <a href="/pages/signup.html"> you too should engineer yourself</a>.
+<br>
+<br>
