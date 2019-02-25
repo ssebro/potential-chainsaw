@@ -4,9 +4,9 @@ title: Join Us!
 published: true
 ---
 
-YAY! You wanna become become one of us?
+You wanna become become one of us?
 
-That's Awesome!!!!
+That's Awesome!
 
 You'll help us sort the insight from the bullshit. This is not a one way street, and we do not have all the answers.
 
