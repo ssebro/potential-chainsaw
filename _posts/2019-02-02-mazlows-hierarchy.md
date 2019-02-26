@@ -9,7 +9,7 @@ tags:
   - Engineering
 ---
 ![Hack Mazlow's Hierarchy of Needs](/assets/images/h-l-min.jpg "Hack Mazlow's Hierarchy")
-Engineering Stephen started with my realizations that
+Engineering Stephen started with the realizations that
 - engineering allows us to systematically, reliably solve problems.
 - the lack of happiness is a (pretty important) problem.
 
