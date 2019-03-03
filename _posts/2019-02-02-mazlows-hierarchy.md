@@ -40,20 +40,14 @@ He is distinct from most other psychologists because the field at large focuses 
 
 ![Mazlow's Hierarchy of Needs](/assets/images/Maslows-Hierarchy.png "Mazlow's Hierarchy")
 
-From the chart, we can see that there are 3 major groups of needs that we need to address:
+This chart helps us see that there are 3 major groups of needs that we need to address - 3 sets of problems to solve.
 - Basic
     - We already know how to solve for this - with Financial Independence.
         - [Here's the math & strategy that makes this dead simple.](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
 - Psychological
-    - We'll need to ensure strong, close relationships
-        - Incomplete. [Sign up for the mailing list](/pages/signup.html) if you'd like to see this solved.
-        - For now, I've begun using a CRM and lead scheduler to automate keeping in touch with friends and family. My phone calls them and rings at the same time, so I don't have to decide to call - it's indistinguishable from them calling me. I've also scheduled Whatsapp messages like "It's been a while Peter! How's it going?" that go out automatically and rehydrate relationships that would otherwise dry up over time. It feels like there's a lot more that could be done here.
-
-    - We should also automate the elements of achievement and bolster self esteem.
-        - In Progress. [Sign up if you'd like a shot](/pages/signup.html) at being a beta user.
 - Self fulfilment
-    - Vision, Reflection, Self Growth and an iterative approach to life's challenges
-        - Coming soon.
+
+We can also use the chart to see what sort of problems each group of systems will need to address. And it's definitely a bit overwhelming. But we can do this by solving one problem at a time.
 
 
-And that's it. That's the big plan - use FIRE to cover basic needs, and engineer systems that cover psychological and self-fulfilment needs.
+And that's it. That's the big plan - use FIRE to cover basic needs, and engineer systems that cover psychological and self-fulfilment needs, solving one problem at a time.
