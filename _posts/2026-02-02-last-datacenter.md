@@ -1,3 +1,9 @@
+---
+layout: post
+title: The Last Data Center
+date: 2026-02-02
+---
+
 # The Last Data Center
 
 Elon Musk recently announced that SpaceX had acquired xAI to build "orbital data centers" and "extend the light of consciousness to the stars."
